@@ -1,3 +1,0 @@
-test nono 编辑文本
-ctrl+o保存
-ctrl+x退出
